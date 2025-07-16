@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Asem logo" width="200"/>
+</p>
+
 # Asem  – Қазақша программалау тілі
 
 Asem — Python негізінде жасалған қазақ тілінде жазуға болатын программалау тілі.
