@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Asem logo" width="200"/>
+  <img src="Logo_asem.png" alt="Asem logo" width="200"/>
 </p>
 
 # Asem  – Қазақша программалау тілі
